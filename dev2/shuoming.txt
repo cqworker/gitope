@@ -5,3 +5,4 @@ git checkout -b dev2
 
 3 dev2 push to rmote branch dev2
 
+4 dev2 has finish but master has changed
