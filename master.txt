@@ -1,1 +1,5 @@
 init
+
+dev2åwork in his's create branch and new dir 
+
+when he finish his work master has done something like this
