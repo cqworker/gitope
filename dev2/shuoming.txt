@@ -1,0 +1,8 @@
+1 dev2 add file in brance dev2 to worker
+git checkout -b dev2
+
+2 dev2 add . and commit to dev2 branch
+
+3 dev2 push to rmote branch dev2
+
+4 dev2 has finish but master has changed
