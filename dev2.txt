@@ -1,3 +1,6 @@
 
 another dev alse want to fix jishi
 dev2 have to do something to fix jishi
+
+
+try to use rebase and look sourcetree
