@@ -1,5 +1,7 @@
 
 another dev alse want to fix jishi
+=======
+>>>>>>> c14058f8306a1f7fbead1d372848551c42c8e904
 dev2 have to do something to fix jishi
 
 
