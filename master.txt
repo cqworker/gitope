@@ -10,3 +10,5 @@ add new and dev2 also need :use rebase
 
 dev merge test
 
+dev merge test1 :try agin -> git config merge.ours.driver true
+
