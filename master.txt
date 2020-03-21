@@ -8,3 +8,5 @@ dev2 merge_ing    and master doing something pull and push
 
 add new and dev2 also need :use rebase
 
+dev merge test
+
