@@ -2,9 +2,13 @@ init
 
 dev2åwork in his's create branch and new dir 
 
-when he finish his work master has done something like this
+when he finish his work devt master has done something like this
 
 dev2 merge_ing    and master doing something pull and push
 
 add new and dev2 also need :use rebase
+
+dev merge test
+
+dev merge test1 :try agin -> git config merge.ours.driver true
 
