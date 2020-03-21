@@ -2,7 +2,7 @@ init
 
 dev2åwork in his's create branch and new dir 
 
-when he finish his work master has done something like this
+when he finish his work dev master has done something like this
 
 dev2 merge_ing    and master doing something pull and push
 
