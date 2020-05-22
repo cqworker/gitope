@@ -36,3 +36,5 @@ emoji                                   | emoji 代码                   | commi
 :penguin: (企鹅)                        | `:penguin:`                  | 修复 Linux 下的问题
 :checkered_flag: (旗帜)                 | `:checkered_flag:`           | 修复 Windows 下的问题
 :twisted_rightwards_arrows: (交叉箭头)   | `:twisted_rightwards_arrows:`| 分支合并
+  
+first change file , then use git commit --amend  
