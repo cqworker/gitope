@@ -39,4 +39,3 @@ emoji                                   | emoji 代码                   | commi
   
 first change file , then use git commit --amend   
 after push and use --amend
-
