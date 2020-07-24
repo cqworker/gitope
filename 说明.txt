@@ -1,3 +1,6 @@
 该目录对应git仓库中的文件
 
 ��� commit message whit emoj
+
+验证: pull 后的初始状态,进行修改,测试本地add/commit 后,拉去其他人已经push的仓库(修改了相同文件:有冲突) 会有什么表现
+add:
